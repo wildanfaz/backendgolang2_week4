@@ -71,7 +71,8 @@ model.UpdateUser = (data, name) => {
     const query = `UPDATE public.users 
     SET 
         username = COALESCE(NULLIF($1, ''), username),
-        password = COALESCE(NULLIF($2, '' || NULL), password)
+        password = COALESCE(NULLIF($2, '' || NULL), password),
+        updated_at = current_date
         WHERE username = $3
     RETURNING *`
 
