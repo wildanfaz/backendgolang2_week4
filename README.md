@@ -9,7 +9,10 @@ Tickitz app part 2
 ```bash
 git clone https://github.com/wildanfaz/backendgolang2_week4.git
 ```
-    
+## Postman
+```bash
+https://documenter.getpostman.com/view/22978251/VV4tVJZY
+```
 ## Authors
 
 - [@wildanfaz](https://www.github.com/wildanfaz)
