@@ -30,7 +30,7 @@ https://documenter.getpostman.com/view/22978251/VV4tVJZY
 
 **Client:** -
 
-**Server:** JavaScript, PostgreSQL, Node.js
+**Server:** JavaScript, PostgreSQL, Node.js, Express.js
 
 ## Author
 
