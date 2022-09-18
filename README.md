@@ -2,7 +2,7 @@
 
 JavaScript week 4
 
-Tickitz app part 2
+Tickitz server-side app part 2
 
 
 ## Clone
