@@ -13,6 +13,6 @@ git clone https://github.com/wildanfaz/backendgolang2_week4.git
 ```bash
 https://documenter.getpostman.com/view/22978251/VV4tVJZY
 ```
-## Authors
+## Author
 
 - [@wildanfaz](https://www.github.com/wildanfaz)
